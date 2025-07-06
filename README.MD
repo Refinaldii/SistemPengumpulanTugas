@@ -17,7 +17,7 @@ Berikut adalah dokumentasi tampilan halaman sistem dalam bentuk gambar:
 ## 🖥️ Dashboard
 
 ### 👨‍🏫 Dashboard Asisten
-![Dashboard Asisten](DashboardAsisten.jpg)
+![Dashboard Asisten](DashboardAssisten.jpg)
 
 ### 🎓 Dashboard Mahasiswa
 ![Dashboard Mahasiswa](DashboardMahasiswa.jpg)
