@@ -37,7 +37,7 @@ Berikut adalah dokumentasi tampilan halaman sistem dalam bentuk gambar:
 ## ✅ Registrasi
 
 ### Registrasi Asisten
-![Registrasi Asisten](RegistrasiAsisten.jpg)
+![Registrasi Asisten](RegistrasiAssisten.jpg)
 
 ### Registrasi Mahasiswa
 ![Registrasi Mahasiswa](RegistrasiMahasiswa.jpg)
