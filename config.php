@@ -1,8 +1,8 @@
 <?php
 // Pengaturan Database
 define('DB_SERVER', '127.0.0.1');
-define('DB_USERNAME', 'root'); 
-define('DB_PASSWORD', ''); 
+define('DB_USERNAME', 'rsvp_user'); 
+define('DB_PASSWORD', 'secret123'); 
 define('DB_NAME', 'pengumpulantugas');
 
 // Membuat koneksi ke database
